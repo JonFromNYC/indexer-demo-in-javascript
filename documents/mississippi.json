@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "mississippi",
+    "title": "Mississippi",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Mississippi is best known for the Mississippi River and blues music."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/mississippi",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "indiana",
+    "title": "Indiana",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Indiana is best known for the Indianapolis 500 auto race."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/indiana",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

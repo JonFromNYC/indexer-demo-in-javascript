@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "arkansas",
+    "title": "Arkansas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Arkansas is best known for its natural hot springs and mountains."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/arkansas",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

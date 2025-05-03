@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "maryland",
+    "title": "Maryland",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Maryland is best known for blue crabs and Chesapeake Bay."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/maryland",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

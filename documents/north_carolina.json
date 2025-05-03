@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "north_carolina",
+    "title": "North Carolina",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "North Carolina is best known for the Wright brothers and the Outer Banks."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/north_carolina",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

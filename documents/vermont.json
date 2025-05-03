@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "vermont",
+    "title": "Vermont",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Vermont is best known for maple syrup and fall colors."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/vermont",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

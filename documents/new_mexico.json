@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "new_mexico",
+    "title": "New Mexico",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Mexico is best known for desert landscapes and adobe architecture."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/new_mexico",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

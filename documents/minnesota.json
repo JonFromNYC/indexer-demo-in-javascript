@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "minnesota",
+    "title": "Minnesota",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Minnesota is best known for lakes and cold winters."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/minnesota",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

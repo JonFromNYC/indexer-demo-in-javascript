@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "wisconsin",
+    "title": "Wisconsin",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Wisconsin is best known for cheese and the Green Bay Packers."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/wisconsin",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

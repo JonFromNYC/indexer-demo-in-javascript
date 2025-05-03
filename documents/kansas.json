@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "kansas",
+    "title": "Kansas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Kansas is best known for flat plains and tornadoes."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/kansas",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "nebraska",
+    "title": "Nebraska",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Nebraska is best known for corn and prairie landscapes."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/nebraska",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

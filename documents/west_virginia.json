@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "west_virginia",
+    "title": "West Virginia",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "West Virginia is best known for Appalachian mountains and coal mining."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/west_virginia",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

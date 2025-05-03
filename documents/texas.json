@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "texas",
+    "title": "Texas",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Texas is best known for barbecue, oil, and cowboy culture."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/texas",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "montana",
+    "title": "Montana",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Montana is best known for Glacier National Park and Big Sky Country."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/montana",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

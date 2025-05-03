@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "delaware",
+    "title": "Delaware",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Delaware is best known for being the first state to ratify the Constitution."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/deleware",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

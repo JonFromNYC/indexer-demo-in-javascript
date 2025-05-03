@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "maine",
+    "title": "Maine",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Maine is best known for lobsters and rugged coastline."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/maine",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

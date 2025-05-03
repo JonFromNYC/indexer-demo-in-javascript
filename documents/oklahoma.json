@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "oklahoma",
+    "title": "Oklahoma",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Oklahoma is best known for tornadoes and Native American history."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/oklahoma",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}
