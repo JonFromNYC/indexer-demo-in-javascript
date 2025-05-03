@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "colorado",
+    "title": "Colorado",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Colorado is best known for the Rocky Mountains and skiing."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/colorado",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "michigan",
+    "title": "Michigan",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Michigan is best known for the Great Lakes and automobile industry."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/michigan",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

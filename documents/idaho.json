@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "idaho",
+    "title": "Idaho",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Idaho is best known for potatoes and mountain ranges."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/idaho",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

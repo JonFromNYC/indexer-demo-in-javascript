@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "oregon",
+    "title": "Oregon",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Oregon is best known for forests, coastlines, and craft beer."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/oregon",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

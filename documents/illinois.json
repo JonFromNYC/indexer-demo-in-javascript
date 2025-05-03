@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "illinois",
+    "title": "Illinois",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Illinois is best known for Chicago and deep-dish pizza."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/illinois",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

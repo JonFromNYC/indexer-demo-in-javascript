@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "washington",
+    "title": "Washington",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Washington is best known for tech companies and coffee culture."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/washington",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

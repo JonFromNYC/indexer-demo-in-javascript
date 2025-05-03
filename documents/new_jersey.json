@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "new_jersey",
+    "title": "New Jersey",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Jersey is best known for the Jersey Shore and diners."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/new_jersey",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

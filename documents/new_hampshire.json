@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "new_hampshire",
+    "title": "New Hampshire",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "New Hampshire is best known for fall foliage and the first primary."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/new_hampshire",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "virginia",
+    "title": "Virginia",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Virginia is best known for colonial history and the Pentagon."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/virginia",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

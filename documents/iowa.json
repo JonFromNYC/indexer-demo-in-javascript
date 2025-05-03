@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "iowa",
+    "title": "Iowa",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Iowa is best known for cornfields and caucuses."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/iowa",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

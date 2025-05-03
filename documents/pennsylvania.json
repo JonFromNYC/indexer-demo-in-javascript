@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "pennsylvania",
+    "title": "Pennsylvania",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Pennsylvania is best known for the Liberty Bell and Hershey chocolate."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/pennsylvania",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

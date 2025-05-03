@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "missouri",
+    "title": "Missouri",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Missouri is best known for the Gateway Arch and barbecue."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/missouri",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

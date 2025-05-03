@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "louisiana",
+    "title": "Louisiana",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Louisiana is best known for jazz and Mardi Gras in New Orleans."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/louisiana",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

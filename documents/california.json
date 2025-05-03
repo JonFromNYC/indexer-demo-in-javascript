@@ -1,0 +1,14 @@
+{
+  "document": {
+    "datasource": "interviewds",
+    "containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "california",
+    "title": "California",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "California is best known for Hollywood and Silicon Valley."
+    },
+    "viewURL": "https://en.wikipedia.org/wiki/california",
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}

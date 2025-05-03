@@ -1,0 +1,15 @@
+{
+  "document": {
+    "datasource": "interviewds",
+"containerDatasourceId": "pretty-string",
+    "objectType": "StateInfo",
+    "id": "kentucky",
+    "title": "Kentucky",
+    "body": {
+      "mimeType": "text/plain",
+      "textContent": "Kentucky is best known for bourbon and the Kentucky Derby."
+    },
+"viewURL": "https://en.wikipedia.org/wiki/kentucky",
+
+    "owners":[{"name": "alex@glean-sandbox.com", "datasourceUserId": "alex@glean-sandbox.com"}]}
+}
